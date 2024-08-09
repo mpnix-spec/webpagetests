@@ -7,9 +7,10 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
+    form#quiz-form {margin-top: 45em;}
 }
 
 .quiz-container {
     background-color: #ffffff;
     padding: 20
-    form#quiz-form {margin-top: 45em;}
+
