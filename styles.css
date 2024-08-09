@@ -1,4 +1,5 @@
 body {
+    form#quiz-form {margin-top: 45em;}
     font-family: Arial, sans-serif;
     background-color: #f4f4f4;
     margin: 0;
@@ -12,4 +13,3 @@ body {
 .quiz-container {
     background-color: #ffffff;
     padding: 20
-    form#quiz-form {margin-top: 45em;}
