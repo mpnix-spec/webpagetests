@@ -7,7 +7,7 @@ body {
     justify-content: center;
     align-items: center;
     height: 100vh;
-    form#quiz-form {margin-top: 45em;}
+    form#quiz-form {margin-top: 55em;}
 }
 
 .quiz-container {
